@@ -1,25 +1,28 @@
-Privacy Policy
-INTRODUCTION
+#Privacy Policy
+#INTRODUCTION
+
 We value your privacy. This Privacy Policy informs you of your choices and our practices regarding any Information you provide to us.
 
 The use of our services may involve the collection and use of your Information (as defined in the “The Information We Collect and How We Collect It” section below) on our services. It is important for you to understand how this happens and how you may control it, so please read this Privacy Policy carefully
 
 By using our services, you agree that we may collect, use and share your Information in accordance with this Privacy Policy, as revised from time to time.
-If you wish to contact us regarding this Privacy Policy or any privacy-related matters, please contact our Privacy Officer via email at whcompany@foxuc.cn.
 
-SCOPE OF THIS PRIVACY POLICY
+
+If you wish to contact us regarding this Privacy Policy or any privacy-related matters, please contact our Privacy Officer via email at 5zfva09T9X3@gmail.com.
+
+#SCOPE OF THIS PRIVACY POLICY
 This Privacy Policy applies across all of our services as defined above.
 
 This Privacy Policy is incorporated into and form part of the Wanghu Terms of Service that you have agreed to in order to use our services. Any terms used in this Privacy Policy will have the same meaning as the equivalent defined terms in the Wanghu Terms of Service, unless otherwise defined in this Privacy Policy or the context requires otherwise.
 
 Please also note that this Privacy Policy does not apply to Information collected: (i) through third party services (including any third party websites) that you may access through our services; or (ii) by other companies and organizations who advertise their services on our services.
 
-CHANGES TO THIS PRIVACY POLICY
+#CHANGES TO THIS PRIVACY POLICY
 We may from time to time revise or add specific instructions, policies and terms to this Privacy Policy. These instructions, policies and terms form part of this Privacy Policy.
 
 Where we consider that any changes to this Privacy Policy are reasonably material, we will notify you, direct communication to you, prior to the change becoming effective. By continuing to use our services after any changes to this Privacy Policy, with or without notice from us, you are agreeing to the revised Privacy Policy.
 
-THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
+#THE INFORMATION WE COLLECT AND HOW WE COLLECT IT
 In providing our services, we collect, store and use the following Information relating to you:
 
 “Information” is Personal Information and Non-Personal Information;
@@ -52,7 +55,7 @@ metadata, which means information related to items you have made available throu
 
 “Shared Information” is information about you or relating to you that is voluntarily shared on our services, including postings that you make on our services (including your public profile, the lists you create), any postings from others that you re-post and including Location Data and Log Data associated with these postings. Shared Information also includes information about you (including Location Data and Log Data) that others who are using our services share about you.
 
-HOW WE USE YOUR INFORMATION
+#HOW WE USE YOUR INFORMATION
 We may use your Information for any of the following purposes:
 
 to provide our services to you;
@@ -93,21 +96,22 @@ As we continue to develop our business, we or our affiliate companies may be acq
 
 You agree that we or our affiliate companies may be required to retain, preserve or disclose your Personal Information: (i) in order to comply with applicable laws or regulations; (ii) in order to comply with a court order, subpoena or other legal process; (iii) in response to a request by a government authority, law enforcement agency or similar body (whether situated in your jurisdiction or elsewhere); or (iv) where we believe it is reasonably necessary to comply with applicable laws or regulations. You also agree that we or our affiliate companies may need to disclose your Personal Information in order to enforce the Wanghu Terms of Service or this Privacy Policy, protect our rights, property or safety, or the rights, property or safety of our affiliate companies or other users of our services.
 
-A WORD ABOUT SHARED INFORMATION
+#A WORD ABOUT SHARED INFORMATION
 Our service enable Shared Information to be shared publicly with all users of that service and not just your contacts. Our social media services in particular are primarily designed to help you share Shared Information with the world via features either provided by us or third parties, so Shared Information can be broadly and instantly transmitted and will remain public for as long as you do not delete it (and even after you delete Shared Information, it may still be separately cached, copied, or stored by, or remain public through, other users or third parties who are not affiliated with and not controlled by us).
 
 Please consider carefully what you post and communicate through our services.In some instances, you may control what access the wider public has to your Shared Information via the privacy settings in some of our services. If you would like to update or amend your Personal Information you may do so by logging into your account and making the appropriate changes or by contacting our Privacy Officer. To request removal of your Personal Information from our services, or to request the removal of an unauthorized account, please contact our Privacy Officer. In some cases, we may not be able to update, amend or remove your Personal Information, in which case we will let you know why we are unable to do so.
 
-COMMUNICATIONS FROM US
+#COMMUNICATIONS FROM US
 Newsletters and other types of communications
 
 When you use our service, we may use your Information to send you emails, newsletters or push notifications to your device. If you no longer wish to receive these communications, you can do so by following the unsubscribe instructions in the emails we send to you, opting out of notifications at the device level (if available) or contacting our Privacy Officer via the contact information within this Policy.
 
-Service-related announcements
+#Service-related announcements
 
 We may from time to time send you service-related announcements when we consider it necessary to do so (such as when we temporarily suspend one of our services for maintenance). You may not opt-out of these service-related announcements, which are not promotional in nature.
 
-A WORD ABOUT SENSITIVE PERSONAL INFORMATION
+#A WORD ABOUT SENSITIVE PERSONAL INFORMATION
+
 In some jurisdictions, certain Personal Information, such as information about your race or ethnic origin, religious or philosophical views or personal health, is characterised as “sensitive” and is subject to stricter regulation than other personal information. Please note that content and information that you input to our services, such as photographs or information about your school or social activities, may reveal your sensitive Personal Information to others.
 
 We urge you to consider whether it is appropriate to communicate Personal Information of a sensitive nature in the manner you are proposing to communicate it using our services.
@@ -116,7 +120,8 @@ You consent to all processing of sensitive Personal Information for the purposes
 
 Please note that we do not use your sensitive Personal Information for the purpose of serving advertising to you.
 
-THIRD PARTY SERVICES ON OUR SERVICES
+#THIRD PARTY SERVICES ON OUR SERVICES
+
 Our service may link you to, social media or other services (including websites) provided by a third party. For example:
 
 you may be able to share content on, or login to, our services using services provided by third parties. The third parties who provide such services may be able to collect your Information and Personal Information (including your Log Data), and may set cookies on your computer to enable such feature to function properly;
@@ -125,7 +130,8 @@ and we may (whether in advertisements or otherwise within our services) provide 
 
 These third party social media or other services may be hosted by the relevant third party or us. Your use of any such third party services (whether social media services or otherwise), including any Personal Information you provide to such third parties, are subject to the relevant third party’s own terms of services and privacy policies and not the Wanghu Terms of Service or this Privacy Policy, so please review their terms carefully. This Privacy Policy only applies to any Information collected by us, does not apply to any services offered by or information practices of any third parties, and we bear no liability for any third party use of any Information provided by you to them.
 
-AGE RESTRICTIONS
+#AGE RESTRICTIONS
+
 Children under the age of 13 are not allowed to use our services. We do not knowingly collect Personal Information from any children under the age of 13. Please contact our Privacy Officer if you believe we have any Personal Information from any children under the age of 13 and we will promptly investigate (and remove) such Personal Information.
 
 TRANSFER, STORAGE AND SECURITY OF YOUR PERSONAL INFORMATION
